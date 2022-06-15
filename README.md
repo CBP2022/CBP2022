@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/baopeng-cai-35ab6ab5">
+  <a href="https://www.linkedin.com/in/baopeng-cai-35ab6ab5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCuk6sWpsa_UD9YcplAEjLCg">
@@ -29,7 +29,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/baopeng-cai-35ab6ab5)
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/baopeng-cai-35ab6ab5/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 ---
 
